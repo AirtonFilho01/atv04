@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.atv02.Model.Cliente;
+import com.example.atv02.model.Cliente;
 
 import java.util.ArrayList;
 

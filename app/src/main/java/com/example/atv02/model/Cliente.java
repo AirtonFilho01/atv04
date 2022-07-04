@@ -1,4 +1,4 @@
-package com.example.atv02.Model;
+package com.example.atv02.model;
 
 import java.io.Serializable;
 

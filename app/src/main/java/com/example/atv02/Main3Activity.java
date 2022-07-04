@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.atv02.Model.Cliente;
+import com.example.atv02.model.Cliente;
 
 public class Main3Activity extends AppCompatActivity {
 
